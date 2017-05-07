@@ -12,8 +12,13 @@ title: "Links"
 
 <ul class="th-grid">
 	<li>
+		<a href="http://beehive.cs.princeton.edu">
+		<h5>Princeton Beehive</h5>
+		</a>
+	</li>
+	<li>
 		<a href="https://www.princeton.edu">
-		<img src="/images/logo-pu.jpg">
+		<h5>Princeton University</h5>
 		</a>
 	</li>
 </ul><!-- /.th-grid -->
