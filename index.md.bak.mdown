@@ -1,5 +1,5 @@
 ---
-layout: archive_rev
+layout: archive
 permalink: /
 title: Princeton Bayesian Nonparametric Workshop
 image:

@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Home
-  url: /
-  excerpt: ""
-  image: teaser-princeton-01.jpg
-
 - title: Speaker
   url: /speaker/
-  excerpt: "Tamara Broderick will host the Princeton BNP workshop."
+  excerpt: "Tamara Broderick @ Princeton BNP workshop."
   image: teaser-tamara-pic.jpg
 
 - title: Schedule
   url: /schedule/
   excerpt: "Coming soon!"
   image: teaser-princeton-02.jpg
+
+- title: Links
+  url: /links/
+  excerpt: ""
+  image: teaser-pu.jpg
