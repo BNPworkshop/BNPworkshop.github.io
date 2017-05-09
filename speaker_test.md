@@ -17,8 +17,8 @@ image:
 
 <h4>Tamara Broderick</h4>
 
-<div style="width:30%">
-<img src="/images/teaser-tamara-pic.jpg" style="float:right;width:303px;height:228px">
+<div style="width:35%;float:right;">
+<img src="/images/teaser-tamara-pic.jpg" style="width:303px;height:228px">
 </div>
 <div style="width:60%">
 <p style="text-align: justify;text-justify: inter-word;">
