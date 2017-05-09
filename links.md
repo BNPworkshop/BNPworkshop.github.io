@@ -10,15 +10,4 @@ title: "Links"
 {% endfor %}
 </div><!-- /.tiles -->
 
-<ul class="th-grid">
-	<li>
-		<a href="http://beehive.cs.princeton.edu">
-		<h5>Princeton Beehive</h5>
-		</a>
-	</li>
-	<li>
-		<a href="https://www.princeton.edu">
-		<h5>Princeton University</h5>
-		</a>
-	</li>
-</ul><!-- /.th-grid -->
+<h5>Princeton BNP workshop 2017 is organized by <a href="http://beehive.cs.princeton.edu"><font color="blue">Princeton Beehive</font></a>.</h5>
