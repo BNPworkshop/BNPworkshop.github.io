@@ -17,7 +17,7 @@ image:
 
 <h4>Tamara Broderick</h4>
 
-<div style="width:330px;float:right;">
+<div style="width:303px;height:228px;float:right;margin:20px">
 <a target="_blank" href="http://www.tamarabroderick.com"> <img src="/images/teaser-tamara-pic.jpg" style="width:303px;height:228px"></a>
 </div>
 <div>
