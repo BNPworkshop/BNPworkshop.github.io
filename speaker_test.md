@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /speaker/
+permalink: /speaker_test/
 title: "Speaker"
 image:
   feature: 
