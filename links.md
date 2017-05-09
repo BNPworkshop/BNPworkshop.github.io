@@ -10,4 +10,4 @@ title: "Links"
 {% endfor %}
 </div><!-- /.tiles -->
 
-<h5>Princeton BNP workshop 2017 is organized by <a href="http://beehive.cs.princeton.edu"><font color="blue">Princeton Beehive</font></a>.</h5>
+<h5>Princeton BNP workshop 2017 is organized by <a href="http://beehive.cs.princeton.edu"><font color="#ff8f00">Princeton Beehive</font></a>.</h5>
