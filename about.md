@@ -22,6 +22,11 @@ title: "About"
 	<br>
 </p>
 
+<h4>Poster Session</h4>
+<p>
+	We will hold an informal poster session on June 1st during the afternoon work session.  No abstract neccessary!  If you would like to share your current work and discuss how you can apply the tools you learned in the workshop, indicate your interest <a href="https://goo.gl/forms/878fUKHft5zVIWHo1"><font color="red">here</font></a>.</h4>
+</p>
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
