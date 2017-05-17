@@ -26,8 +26,9 @@ title: "About"
 <p>
 	We are holding an informal poster session on June 1st during the afternoon work session.  Feel free to bring an old conference poster, print out your slides, or bring out your artistic side through hand drawn images.  This is an oppertunity to present your work, network with your peers, and get feedback on how you can incorporate  nonparameteric methods into your own research. 
 	  
-	  No abstract neccessary!  If you would like to share your current work and discuss how you can apply the tools you learned in the workshop, indicate your interest <a href="https://goo.gl/forms/878fUKHft5zVIWHo1"><font color="red">here</font></a>.</h4>
+	  No abstract neccessary!  If you would like to share your current work and discuss how you can apply the tools you learned in the workshop, indicate your interest <a href="https://goo.gl/forms/878fUKHft5zVIWHo1"><font color="red">here</font></a>.
 </p>
+</h4>
 
 <div class="tiles">
 {% for post in site.posts %}
