@@ -3,6 +3,8 @@ layout: archive
 permalink: /about/
 title: "About"
 ---
+<h4>Links of the tutorial is now online! Check out [<a href="http://www.kaltura.com/tiny/vwudn"><font color="blue">Day 1</font></a>].</h4>
+
 <h4>Tutorial materials can be found <a href="http://www.tamarabroderick.com/tutorial_2017_princeton.html"><font color="red">here</font></a>.</h4>
 
 <h4>Registration is now open! Please follow this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfz_wi9JYUUje0nVn_m95O5gq93nhryWYe97r6JWeNgl8AM-w/viewform?c=0&w=1"><font color="red">link</font></a>.</h4>
