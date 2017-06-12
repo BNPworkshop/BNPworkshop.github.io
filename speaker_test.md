@@ -26,4 +26,4 @@ Tamara Broderick is the ITT Career Development Assistant Professor in the Depart
 </div>
 
 
-More details about her recent work, please check out <a href="http://www.tamarabroderick.com/">her website</a>.
+For more details about her recent work, please check out <a href="http://www.tamarabroderick.com/">her website</a>.
